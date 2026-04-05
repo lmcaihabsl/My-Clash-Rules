@@ -1,0 +1,33 @@
+# NAME: Porn
+# AUTHOR: 0z
+# REPO: https://github.com/0z/
+# UPDATED: 2026-04-06 02:12:22
+payload:
+  - DOMAIN-KEYWORD,laowang
+  - DOMAIN-SUFFIX,mangaforfree.com
+  - DOMAIN-SUFFIX,18comic.vip
+  - DOMAIN-SUFFIX,18comic.ink
+  - DOMAIN-SUFFIX,jmcomic-zzz.one
+  - DOMAIN-SUFFIX,jmcomic-zzz.org
+  - DOMAIN-SUFFIX,jm18c-oec.cc
+  - DOMAIN-SUFFIX,jm18c-oecclu.com
+  - DOMAIN-SUFFIX,jm18c-oec.club
+  - DOMAIN-SUFFIX,jm-88.cc
+  - DOMAIN-SUFFIX,bunkr-albums.io
+  - DOMAIN-SUFFIX,missav.live
+  - DOMAIN-SUFFIX,sehuatang.org
+  - DOMAIN-SUFFIX,0cili.org
+  - DOMAIN-SUFFIX,sjs47.com
+  - DOMAIN-SUFFIX,laowang.vip
+  - DOMAIN-SUFFIX,archivebate.com
+  - DOMAIN-SUFFIX,chaturbate.com
+  - DOMAIN-SUFFIX,taiav.com
+  - DOMAIN-SUFFIX,haijiao.com
+  - DOMAIN-SUFFIX,lspaikan.com
+  - DOMAIN-SUFFIX,x1hub.com
+  - DOMAIN-SUFFIX,sukebei.nyaa.si
+  - DOMAIN-SUFFIX,eroohub.com
+  - DOMAIN-SUFFIX,cav106.com
+  - DOMAIN-SUFFIX,videocelebs.net
+  - DOMAIN-SUFFIX,mega.nz
+  - PROCESS-NAME,LookupViewService
